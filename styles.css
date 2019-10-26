@@ -1,0 +1,12 @@
+body {
+    background-image: url(images/iceland-bg-transparent.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.breadcrumb {
+    background-color: #a1d0ff82;
+}        
+
+
